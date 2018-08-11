@@ -1,0 +1,34 @@
+{
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        80
+    ],
+    "editor.lineNumbers": "relative",
+    "editor.fontSize": 16,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "window.zoomLevel": -1,
+    "vim.easymotion": true,
+    "vim.otherModesKeyBindingsNonRecursive": [
+        {
+            "before": [" "],
+            "after": ["leader", "leader", "leader", "b", "d", "w"],
+        }
+    ],
+    "vim.handleKeys": {
+        "<C-w>": false
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "workbench.startupEditor": "welcomePage",
+    "vim.useSystemClipboard": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "window.zoomLevel": 0,
+    "files.insertFinalNewline": true,
+    "editor.tabSize": 2,
+    "vim.cmdLineInitialColon": true,
+}
